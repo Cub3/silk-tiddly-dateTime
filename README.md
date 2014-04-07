@@ -8,10 +8,11 @@
 
 1. Create new tiddler (+)
 2. Name tiddler ```$:/macros/silk/dateTime.js```
-3. Set type as ```application/javascript```
-4. Add new field named ```module-type```
-5. Set module-type to ```macro```
-6. Refresh / Restart TiddlyWiki5
+3. Copy and paste ```dateTime.js``` content into the tiddler body
+4. Set type as ```application/javascript```
+5. Add new field named ```module-type```
+6. Set module-type to ```macro```
+7. Refresh / Restart TiddlyWiki5
 
 ###How to Use
 
