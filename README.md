@@ -17,7 +17,9 @@
 
 Call the macro with:
 
-```<<dateTime>>```
+```
+<<dateTime>>
+```
 
 Set the format in whichever way you like:
 
